@@ -1,4 +1,4 @@
-# PixelAI
+# Pixel-AIF
 End-to-End Pixel-Based Deep Active Inference for Body Perception and Action. 
 
 *Published in IEEE International conference on Developmental Learning and Epigenetic Robotics 2020. https://ieeexplore.ieee.org/abstract/document/9278105
