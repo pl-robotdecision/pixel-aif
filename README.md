@@ -5,7 +5,7 @@ End-to-End Pixel-Based Deep Active Inference for Body Perception and Action.
 Preprint: https://arxiv.org/abs/2001.05847
 
 - Citation:
-Sancaktar, Cansu, Marcel AJ van Gerven, and Pablo Lanillos. "End-to-end pixel-based deep active inference for body perception and action." 2020 Joint IEEE 10th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob). IEEE, 2020.
+Cansu Sancaktar, Marcel van Gerven, and Pablo Lanillos. "End-to-end pixel-based deep active inference for body perception and action." 2020 Joint IEEE 10th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob). IEEE, 2020.
 
 @inproceedings{sancaktar2020end,
   title={End-to-end pixel-based deep active inference for body perception and action},
